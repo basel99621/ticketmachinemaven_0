@@ -5,14 +5,14 @@ import org.junit.jupiter.api.*;
 
 public class TicketMachineTest {
 	private static final int PRICE = 50; // Une constante
-//test git
+//test git (TP du 19 Octobre)
 	private TicketMachine machine; // l'objet à tester
 
 	@BeforeEach
 	public void setUp() {
 		machine = new TicketMachine(PRICE); // On initialise l'objet à tester
 	}
-//je rajoute un 2ème test pour vériier que c'est tout bon
+//je rajoute un 2ème test pour vériier que c'est tout bon (TP du 19 Octobre)
 	@Test
 	// On vérifie que le prix affiché correspond au paramètre passé lors de l'initialisation
 	// S1 : le prix affiché correspond à l’initialisation.
