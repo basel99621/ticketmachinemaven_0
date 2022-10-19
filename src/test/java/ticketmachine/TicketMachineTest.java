@@ -12,7 +12,7 @@ public class TicketMachineTest {
 	public void setUp() {
 		machine = new TicketMachine(PRICE); // On initialise l'objet à tester
 	}
-
+//je rajoute un 2ème test pour vériier que c'est tout bon
 	@Test
 	// On vérifie que le prix affiché correspond au paramètre passé lors de l'initialisation
 	// S1 : le prix affiché correspond à l’initialisation.
