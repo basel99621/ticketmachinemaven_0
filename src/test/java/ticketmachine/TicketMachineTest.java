@@ -92,5 +92,7 @@ public class TicketMachineTest {
 		}
 		}
 
+		//test de modification
+
 	}
 
