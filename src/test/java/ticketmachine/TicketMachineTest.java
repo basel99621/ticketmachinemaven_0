@@ -93,6 +93,7 @@ public class TicketMachineTest {
 		}
 
 		//test de modification
+	//TEST DE CONFLIT 2
 
 	}
 
